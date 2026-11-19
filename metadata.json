@@ -1,0 +1,6 @@
+{
+  "name": "KKTC KHK Alt Düzey Yeterlilik Sınavı",
+  "description": "KKTC Kamu Hizmeti Komisyonu Alt Düzey Yeterlilik Sınavı için gerçek sınav kitapçığı ve etkileşimli optik cevap kağıdı deneyimi sunan, esnek süre ve soru ayarlı, yanlış cevap analizli hazırlık uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
